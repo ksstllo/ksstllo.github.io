@@ -3,10 +3,8 @@
 **negrita**
 *cursiva*
 1. Primer Elemento
-1. Segundo Elemento
-* Primer elemento
-* Seguno Elemento
+2. Segundo Elemento
 ---
-#Quick Links#
+# Quick Links #
 ---
 WebSite:
